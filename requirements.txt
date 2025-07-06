@@ -1,0 +1,8 @@
+streamlit
+pandas
+openpyxl
+joblib
+scikit-learn
+facenet-pytorch
+torch
+opencv-python
